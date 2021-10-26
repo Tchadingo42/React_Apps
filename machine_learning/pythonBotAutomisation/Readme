@@ -1,0 +1,8 @@
+1) pip install selenium
+
+2) Download the chromedriver (corresponds to your chrome version) - https://chromedriver.chromium.org/. Put it to the bot folder
+
+3) Make configuration (enter username, password, tags, locations, comments)
+
+4) Open CMD, console, or PowerShell in the bot folder. Enter: py bot.py
+
