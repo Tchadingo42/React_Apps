@@ -1,0 +1,6 @@
+export { default as Blog } from './blog/blog'
+export { default as Features } from './features/features'
+export { default as Footer } from './footer/footer'
+export { default as Header } from './header/header'
+export { default as Pos } from './pos/pos'
+export { default as GP3 } from './gp3/gp3'
